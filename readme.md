@@ -14,10 +14,7 @@ Projects are organized by difficulty and topic:
 - **Level 2 – Scanning & Enumeration**: Port scanners, service detection, and reconnaissance tools  
 - *(Future levels will expand into more advanced topics)*
 
-Each project is contained in its own folder and includes:
-- Source code
-- A brief explanation of the concept
-- Usage instructions (when applicable)
+Each project is contained in its own folder and includes source code.
 
 ## Notes
 
